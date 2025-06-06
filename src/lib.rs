@@ -99,4 +99,4 @@ const FDT_PROP: u32 = 0x00000003;
 const FDT_END: u32 = 0x00000009;
 
 const NODE_NAME_MAX_LEN: usize = 31;
-const PROPERTY_NAME_MAX_LEN: usize = 31;
+const PROPERTY_NAME_MAX_LEN: usize = 63;
